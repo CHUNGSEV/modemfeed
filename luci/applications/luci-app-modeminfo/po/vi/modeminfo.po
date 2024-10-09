@@ -1,0 +1,132 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Modem"
+msgstr "mạng di động"
+
+msgid "Modeminfo"
+msgstr "Thông tin modem"
+
+msgid "Network"
+msgstr "mạng"
+
+msgid "China Mobile"
+msgstr "Điện thoại di động Trung Quốc"
+
+msgid "China Unicom"
+msgstr "China Unicom"
+
+msgid "China Telecom"
+msgstr "Viễn thông Trung Quốc"
+
+msgid "Hardware"
+msgstr "phần cứng"
+
+msgid "Setup"
+msgstr "cài đặt"
+
+msgid "Modeminfo: Network"
+msgstr "Thông tin modem: Mạng"
+
+msgid "No Registration"
+msgstr "Chưa đăng ký"
+
+msgid "Registered"
+msgstr "Đăng ký"
+
+msgid "Searching"
+msgstr "Tìm kiếm"
+
+msgid "Denied"
+msgstr "Cấm đăng ký"
+
+msgid "Unknown"
+msgstr "không rõ"
+
+msgid "Roaming"
+msgstr "chuyển vùng"
+
+msgid "No Data"
+msgstr "Không có dữ liệu"
+
+msgid "Network/Band/Bandwidth"
+msgstr "Mạng/băng tần/băng thông"
+
+msgid "Network/Band"
+msgstr "Mạng/băng tần"
+
+msgid "Cellular network"
+msgstr "mạng di động"
+
+msgid "Operator"
+msgstr "Người điều hành"
+
+msgid "Status"
+msgstr "tình trạng"
+
+
+msgid "Modeminfo: Hardware"
+msgstr "Thông tin modem: Phần cứng"
+
+msgid "Hardware and sim card info."
+msgstr "Thông tin phần cứng và thẻ sim."
+
+msgid "Device"
+msgstr "thiết bị"
+
+msgid "Firmware"
+msgstr "phần sụn"
+
+msgid "Chiptemp"
+msgstr "nhiệt độ chip"
+
+msgid "In automatic mode detect first answered DATA port."
+msgstr "Ở chế độ tự động, cổng DATA phản hồi đầu tiên được phát hiện."
+
+msgid "Please select a port"
+msgstr "Vui lòng chọn một cổng"
+
+msgid "Modeminfo: Configuration"
+msgstr "Thông tin modem: Cấu hình"
+
+msgid "Configuration panel of Modeminfo."
+msgstr "Bảng cấu hình thông tin modem."
+
+msgid "Use QMI"
+msgstr "Sử dụng QMI"
+
+msgid "Get modem data via qmicli (experimental). Require install qmi-utils."
+msgstr "Nhận dữ liệu modem qua qmicli (thử nghiệm). tiện ích qmi cần được cài đặt."
+
+msgid "Data port"
+msgstr "cổng dữ liệu"
+
+msgid "Select serial port."
+msgstr "Chọn cổng nối tiếp."
+
+msgid "Select qmi port."
+msgstr "Chọn cổng qmi."
+
+msgid "Show decimal"
+msgstr "Hiển thị số thập phân"
+
+msgid "Show LAC and CID in decimal."
+msgstr "Hiển thị LAC và CID ở dạng thập phân."
+
+msgid "Get device hardware name via mmcli utility if aviable."
+msgstr "Nếu có, hãy lấy tên phần cứng thiết bị qua mmcli."
+
+msgid "Name via mmcli"
+msgstr "Đặt tên qua mmcli"
+
+msgid "QMI proxy"
+msgstr "QMI proxy"
+
+msgid "Enable qmi-proxy mode."
+msgstr "Kích hoạt chế độ proxy qmi."
+
+msgid "Index page"
+msgstr "trang chủ"
+
+msgid "Short info on Overview page"
+msgstr "Hiển thị thông tin đơn giản trên trang tổng quan."
