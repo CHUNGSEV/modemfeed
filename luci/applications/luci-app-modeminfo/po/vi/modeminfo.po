@@ -2,13 +2,13 @@ msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
 msgid "Modem"
-msgstr "mạng di động"
+msgstr "Mạng di động"
 
 msgid "Modeminfo"
 msgstr "Thông tin modem"
 
 msgid "Network"
-msgstr "mạng"
+msgstr "Mạng"
 
 msgid "China Mobile"
 msgstr "Điện thoại di động Trung Quốc"
@@ -20,10 +20,10 @@ msgid "China Telecom"
 msgstr "Viễn thông Trung Quốc"
 
 msgid "Hardware"
-msgstr "phần cứng"
+msgstr "Phần cứng"
 
 msgid "Setup"
-msgstr "cài đặt"
+msgstr "Cài đặt"
 
 msgid "Modeminfo: Network"
 msgstr "Thông tin modem: Mạng"
@@ -41,10 +41,10 @@ msgid "Denied"
 msgstr "Cấm đăng ký"
 
 msgid "Unknown"
-msgstr "không rõ"
+msgstr "Không rõ"
 
 msgid "Roaming"
-msgstr "chuyển vùng"
+msgstr "Chuyển vùng"
 
 msgid "No Data"
 msgstr "Không có dữ liệu"
@@ -56,13 +56,13 @@ msgid "Network/Band"
 msgstr "Mạng/băng tần"
 
 msgid "Cellular network"
-msgstr "mạng di động"
+msgstr "Mạng di động"
 
 msgid "Operator"
-msgstr "Người điều hành"
+msgstr "Nhà điều hành"
 
 msgid "Status"
-msgstr "tình trạng"
+msgstr "Tình trạng"
 
 
 msgid "Modeminfo: Hardware"
@@ -72,13 +72,13 @@ msgid "Hardware and sim card info."
 msgstr "Thông tin phần cứng và thẻ sim."
 
 msgid "Device"
-msgstr "thiết bị"
+msgstr "Thiết bị"
 
 msgid "Firmware"
-msgstr "phần sụn"
+msgstr "Phần sụn"
 
 msgid "Chiptemp"
-msgstr "nhiệt độ chip"
+msgstr "Nhiệt độ chip"
 
 msgid "In automatic mode detect first answered DATA port."
 msgstr "Ở chế độ tự động, cổng DATA phản hồi đầu tiên được phát hiện."
@@ -99,7 +99,7 @@ msgid "Get modem data via qmicli (experimental). Require install qmi-utils."
 msgstr "Nhận dữ liệu modem qua qmicli (thử nghiệm). tiện ích qmi cần được cài đặt."
 
 msgid "Data port"
-msgstr "cổng dữ liệu"
+msgstr "Cổng dữ liệu"
 
 msgid "Select serial port."
 msgstr "Chọn cổng nối tiếp."
@@ -126,7 +126,7 @@ msgid "Enable qmi-proxy mode."
 msgstr "Kích hoạt chế độ proxy qmi."
 
 msgid "Index page"
-msgstr "trang chủ"
+msgstr "Trang mục lục"
 
 msgid "Short info on Overview page"
 msgstr "Hiển thị thông tin đơn giản trên trang tổng quan."
