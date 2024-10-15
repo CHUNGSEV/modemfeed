@@ -126,7 +126,7 @@ msgid "Enable qmi-proxy mode."
 msgstr "Kích hoạt chế độ proxy qmi."
 
 msgid "Index page"
-msgstr "Trang mục lục"
+msgstr "Trang chính"
 
 msgid "Short info on Overview page"
 msgstr "Hiển thị thông tin đơn giản trên trang tổng quan."
