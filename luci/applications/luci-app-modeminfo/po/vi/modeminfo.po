@@ -59,7 +59,7 @@ msgid "Cellular network"
 msgstr "Mạng di động"
 
 msgid "Operator"
-msgstr "Nhà điều hành"
+msgstr "Cường độ tín hiệu"
 
 msgid "Status"
 msgstr "Tình trạng"
