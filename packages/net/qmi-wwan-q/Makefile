@@ -16,7 +16,7 @@ PKG_BUILD_PARALLEL:=1
 include $(INCLUDE_DIR)/package.mk
 
 define KernelPackage/qmi-wwan-q
-  CATEGORY:=X
+  CATEGORY:=Network
   TITLE:=QMI WWAN QMAP driver
   FILES:=$(PKG_BUILD_DIR)/qmi_wwan_q.ko
   #AUTOLOAD:=$(call AutoProbe,qmi_wwan_q)
