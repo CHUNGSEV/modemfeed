@@ -18,7 +18,7 @@ PKG_LICENSE:=GPL-2.0
 include $(INCLUDE_DIR)/package.mk
 
 define Package/quectel-cm
-  CATEGORY:=X
+  CATEGORY:=Network
   TITLE:=Quectel Qconnect Manager
   DEPENDS:= +kmod-qmi-wwan-q
 endef
