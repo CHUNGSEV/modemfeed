@@ -25,6 +25,7 @@ define Package/mwan3plus
      +ip \
      +ipset \
      +iptables \
+     +IPV6:ip6tables \
      +iptables-mod-conntrack-extra \
      +iptables-mod-ipopt \
      +jshn
