@@ -1,6 +1,7 @@
 #!/bin/sh
 
 . /usr/share/libubox/jshn.sh
+. /lib/mwan3/common.sh
 
 IP4="ip -4"
 IP6="ip -6"
